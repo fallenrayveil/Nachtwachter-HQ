@@ -18,7 +18,7 @@
 
     <!-- add icon link -->
     <link rel = "icon" href = 
-    "https://cdn.discordapp.com/attachments/1153354870489882654/1171475643104501882/Kuro-Giri_New_No_BG.png?ex=655cd0b6&is=654a5bb6&hm=fae57227cff3b87d1e3e7da91399c6dae8c1517cb490da9d0513635ae1f3d5e4&" 
+    "https://storage.googleapis.com/imgbkt-ray/icon.png" 
             type = "image/x-icon" >
 
   </head>
@@ -144,7 +144,7 @@
         <article id="honkai" class="card">
           <h2>Honkai Impact 3rd</h2>
           <img
-            src="assets/img/honkai.png"
+            src="https://storage.googleapis.com/imgbkt-ray/honkai.png"
             alt="Honkai"
             class="featured-image"
           />
@@ -174,7 +174,7 @@
           <section>
             <h3>Main Account ( Asia )</h3>
             <img
-              src="assets/img/genshin.png"
+              src="https://storage.googleapis.com/imgbkt-ray/genshin.png"
               alt="Main Account"
               class="featured-image"
             />
@@ -199,7 +199,7 @@
           <section>
             <h3>Main Account ( Europe )</h3>
             <img
-              src="assets/img/genshin3.png"
+              src="https://storage.googleapis.com/imgbkt-ray/genshin3.png"
               alt="Main Account"
               class="featured-image"
             />
@@ -231,7 +231,7 @@
           <section>
             <h3>Main Account</h3>
             <img
-              src="assets/img/hsr.png"
+              src="https://storage.googleapis.com/imgbkt-ray/hsr.png"
               alt="Main Account"
               class="featured-image"
             />
@@ -268,7 +268,7 @@
             <h2>Gilang Hayu Rahmawan</h2>
             <p>Just Casual Players</p>
             <figure>
-              <img class="img-container" src="https://cdn.discordapp.com/attachments/1152535186060345385/1171473650168385536/IMG_20231107_015918.jpg?ex=655ccedb&is=654a59db&hm=7a3688b0a2704b0b2128d42be227ad4fa0510e8ea3e3415580ac09a61bbfc34d&" />
+              <img class="img-container" src="https://storage.googleapis.com/imgbkt-ray/ava.jpg" />
               <figcaption>
                 永遠に続くものはない<br />
                 この世界で
